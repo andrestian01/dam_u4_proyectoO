@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883673425825",
+    "project_id": "dam-u4-proyecto-cd91b",
+    "storage_bucket": "dam-u4-proyecto-cd91b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883673425825:android:f62e2a2eaf0b848a324de0",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_u4_p1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8WbSBYxoKNiXpa8pyd8zz9-vlWqg1uWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
